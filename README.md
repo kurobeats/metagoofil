@@ -2,8 +2,11 @@ Metagoofil
 ==========
 
 version  2.2
+
 Coded by Christian Martorella
+
 www.edge-security.com
+
 cmartorella@edge-security.com
 
 *************************************
