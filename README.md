@@ -1,5 +1,8 @@
+Metagoofil
+==========
+
 *************************************
-*Metagoofil  2.2                    *
+*version  2.2                       *
 *Coded by Christian Martorella      *
 *www.edge-security.com              *
 *cmartorella@edge-security.com      *
@@ -15,13 +18,13 @@ Metagoofil is a tool for extracting metadata of public documents (pdf,doc,xls,pp
 This new version will also extract emails addresses from PDF and Word documents content.
 
 How it works?
-------------
+-------------
 
 The tool first perform a query in Google requesting different filetypes that can have useful metadata (pdf, doc, xls,ppt,etc), then will download those documents to the disk and extracts the metadata of the file using specific libraries for parsing different file types (Hachoir, Pdfminer, etc)
 
 
 Dependencies:
-------------
+-------------
 In this version all depencies are included.
 
 
