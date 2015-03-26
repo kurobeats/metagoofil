@@ -1,14 +1,14 @@
 Metagoofil
 ==========
 
-*************************************
 version  2.2
 Coded by Christian Martorella
 www.edge-security.com
 cmartorella@edge-security.com
-*************************************
 
+*************************************
 THIS IS A PRE RELEASE VERSION FOR BLACKHAT ARSENAL MORE FEATURES AND IMPROVEMENTS ARE COMING SOON!
+*************************************
 
 What is this?
 -------------
