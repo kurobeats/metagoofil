@@ -2,10 +2,10 @@ Metagoofil
 ==========
 
 *************************************
-*version  2.2                       *
-*Coded by Christian Martorella      *
-*www.edge-security.com              *
-*cmartorella@edge-security.com      *
+version  2.2
+Coded by Christian Martorella
+www.edge-security.com
+cmartorella@edge-security.com
 *************************************
 
 THIS IS A PRE RELEASE VERSION FOR BLACKHAT ARSENAL MORE FEATURES AND IMPROVEMENTS ARE COMING SOON!
@@ -34,7 +34,7 @@ Thanks Pdfminer, Hachoir for their great libraries.
 
 Changelog 2.2:
 --------------
--Fixed Google parser
--Fixed email regexp
--Fixed leading space in results
--Fixed local analysis
+- Fixed Google parser
+- Fixed email regexp
+- Fixed leading space in results
+- Fixed local analysis
