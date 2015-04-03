@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 from discovery import googlesearch
 from extractors import *
 import urllib
